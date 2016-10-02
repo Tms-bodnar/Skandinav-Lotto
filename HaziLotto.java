@@ -89,7 +89,7 @@ public class HaziLotto {
 
         tippadas(tipp);
         System.out.println("Az Ön nyerőszámai: ");
-        rendez(tpp);
+        rendez(tipp);
         tombkiir(tipp);
 
         System.out.println("Nyerőszámok: ");
